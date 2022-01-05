@@ -1,0 +1,17 @@
+.background {
+    position: static;
+    background: rgb(90, 124, 164);
+    }
+*{
+    margin: 0;
+    padding: 0;
+}
+#black {
+    position: fixed;
+    color: rgb(0, 0, 0);
+    left: 40%;
+}
+.information {
+    position: absolute;
+    
+}

@@ -1,5 +1,5 @@
 **Skobeleu Bahdan**
-[This is me:)](C:\Users\Богдан\Desktop\rsschool\KcPOXIG3u70.jpg)
+[It's me:)](C:\Users\Богдан\Desktop\rsschool\KcPOXIG3u70.jpg)
 19.04.1989 was born in German
 *E-mail*:skobelev.dnepr@gmail.com
 *Phone*:+375291486947
