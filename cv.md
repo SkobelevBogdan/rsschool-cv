@@ -13,5 +13,4 @@ In IT-sphere I have no any experience.. BUT!.. I also educable and diligent man.
 *Advertising (near 4 years)
 *Woodworking, chemical and others productions (near 5-6 years)
 *Skills*: basic knowledge in Adobe Photoshop, confident knowledge in Corel Draw
-*English level*: Basic (learn in school)
-Technical (learn in Belorussian-Russian university)
+*English level*: Basic, Technical
